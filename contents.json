@@ -1,0 +1,173 @@
+{
+    "main":{
+        "text": "Discover comfort and convenience—book your stay in Keishampat, the bustling heart of Imphal City, for an unforgettable visit!.",
+        "images": [
+            "/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"
+        ]
+    },
+    "homeCards":[
+        {
+            "title":"Location",
+            "subtitle": "Keishampat, Imphal",
+            "text":"Nila Home Stays is conveniently located in the heart of Imphal city, along National Highway 150. It is just 9 km from Bir Tikendrajit International Airport, with a travel time of 15–20 minutes by car. Ima Keithel — one of the most iconic and unique markets in Imphal, and a landmark recognized worldwide — is only a few minutes' drive away"
+        },
+        {
+            "title": "Homely Feel",
+            "subtitle": "Cozy stay",
+            "text": "All rooms are fully furnished, offering complete privacy in a secure environment. Enjoy the freedom to cook your favorite meals, with friendly neighbors adding to the homely atmosphere."
+        },
+        {
+            "title": "Features",
+            "subtitle": "What & where",
+            "text": "Perfect for families, our clean and well-furnished rooms offer a comfortable stay with private bathrooms for added convenience. Located in a friendly neighborhood, you’ll find bakeries and local stores just a short walk away—perfect for picking up fresh vegetables, meat, and other essentials."
+        },
+        {
+            "title": "Check-in/Checkout",
+            "subtitle": "Timing",
+            "text": "Guests may check in between 3:00 PM and 7:00 PM, and check-out is scheduled by 12:00 PM. Housekeeping is conducted between 12:00 PM and 3:00 PM to prepare for incoming guests."
+        }
+    ],
+    "homeGallery": [
+        "/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"
+    ],
+    "rooms":[
+        {
+            "id": "e9bdc08b-9970-4837-a171-c6adcf9a3535",
+            "name": "Koubru Room",
+            "description":"2 BHK with total space of 900sqft. Master room with private bathroom attached, and one common bathroom. Open space for drying clothes, kids friendly.",
+            "photos":["/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"],
+            "price": "5000", 
+            "features": {
+                "area": "900sq ft",
+                "kitchen": "yes",
+                "numberOfBedRooms": 2,
+                "numberOfWashroom" : 2,
+                "closet": "yes",
+                "furnished": "yes",
+                "NoOfGuest": 3,
+                "wifiAccess": "yes",
+                "fridge" : "yes",
+                "balcony": "no",
+                "parking": "road side",
+                "laundry": "Self Service",
+                "bedType": "twin",
+                "airConditioning": "no",
+                "breakfastIncluded": "no",
+                "petFriendly": "no",
+                "alcholicDrinks": "no",
+                "floor": "4th Floor",
+                "lift": "no"
+            }
+        },
+        {
+            "id": "6bdcf89b-2cb4-40bd-a4fd-9a8dfd52a650",
+            "name": "Sekmai Room",
+            "description":"2 BHK with total space of 900sqft. Master room with private bathroom attached, and one common bathroom. Open space for drying clothes, kids friendly.",
+            "photos":["/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"],
+            "price": "5000", 
+            "features": {
+                "area": "900sq ft",
+                "kitchen": "yes",
+                "numberOfBedRooms": 2,
+                "numberOfWashroom" : 2,
+                "closet": "yes",
+                "furnished": "yes",
+                "NoOfGuest": 3,
+                "wifiAccess": "yes",
+                "fridge" : "yes",
+                "balcony": "no",
+                "parking": "road side",
+                "laundry": "Self Service",
+                "bedType": "twin",
+                "airConditioning": "no",
+                "breakfastIncluded": "no",
+                "petFriendly": "no",
+                "alcholicDrinks": "no",
+                "floor": "3th Floor",
+                "lift": "no"
+            }
+        },
+        {
+            "id": "09b66449-2ad1-414e-a2e6-073999ad656e",
+            "name": "Loktak Room",
+            "description":"2 BHK with total space of 900sqft. Master room with private bathroom attached, and one common bathroom. Open space for drying clothes, kids friendly.",
+            "photos":["/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"],
+            "price": "5000", 
+            "features": {
+                "area": "900sq ft",
+                "kitchen": "yes",
+                "numberOfBedRooms": 2,
+                "numberOfWashroom" : 2,
+                "closet": "yes",
+                "furnished": "yes",
+                "NoOfGuest": 3,
+                "wifiAccess": "yes",
+                "fridge" : "yes",
+                "balcony": "no",
+                "parking": "road side",
+                "laundry": "Self Service",
+                "bedType": "twin",
+                "airConditioning": "no",
+                "breakfastIncluded": "no",
+                "petFriendly": "no",
+                "alcholicDrinks": "no",
+                "floor": "2th Floor",
+                "lift": "no"
+            }
+        },{
+            "id": "91d90438-8ee6-4dbd-9a9e-1ce425c6e78a",
+            "name": "Baruni Room",
+            "description":"2 BHK with total space of 900sqft. Master room with private bathroom attached, and one common bathroom. Open space for drying clothes, kids friendly.",
+            "photos":["/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"],
+            "price": "5000", 
+            "features": {
+                "area": "900sq ft",
+                "kitchen": "yes",
+                "numberOfBedRooms": 2,
+                "numberOfWashroom" : 2,
+                "closet": "yes",
+                "furnished": "yes",
+                "NoOfGuest": 3,
+                "wifiAccess": "yes",
+                "fridge" : "yes",
+                "balcony": "no",
+                "parking": "road side",
+                "laundry": "Self Service",
+                "bedType": "twin",
+                "airConditioning": "no",
+                "breakfastIncluded": "no",
+                "petFriendly": "no",
+                "alcholicDrinks": "no",
+                "floor": "1th Floor",
+                "lift": "no"
+            }
+        },{
+            "id": "c104c243-0824-4258-a866-e29cb9025905",
+            "name": "Thangjing Room",
+            "description":"1 BHK with total space of 900sqft. Master room with private bathroom attached, and one common bathroom. Open space for drying clothes, kids friendly.",
+            "photos":["/room-1.jpg","/room-2.jpg","/room-3.jpg","/room-4.jpg"],
+            "price": "2000", 
+            "features": {
+                "area": "600sq ft",
+                "kitchen": "yes",
+                "numberOfBedRooms": 1,
+                "numberOfWashroom" : 1,
+                "closet": "yes",
+                "furnished": "yes",
+                "NoOfGuest": 3,
+                "wifiAccess": "yes",
+                "fridge" : "yes",
+                "balcony": "no",
+                "parking": "road side",
+                "laundry": "Self Service",
+                "bedType": "twin",
+                "airConditioning": "no",
+                "breakfastIncluded": "no",
+                "petFriendly": "no",
+                "alcholicDrinks": "no",
+                "floor": "Ground Floor",
+                "lift": "no"
+            }
+        }
+    ]
+}
